@@ -1,3 +1,4 @@
 env
 .env
 services/web/project/__pycache__/*.cpython-39.pyc
+traefik-public-certificates/
